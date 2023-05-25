@@ -1,0 +1,18 @@
+.styling{
+  display: flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  background-color:black;
+  height:100vh;
+}
+
+.heading{
+  color:green;
+  font-family: 'Georgia';
+}
+
+.para{
+  color:green;
+  font-family: 'Georgia';
+}
